@@ -19,5 +19,5 @@ uint64_t nextPrime(uint64_t value) {
 
 uint64_t sumPrime(uint64_t hbound) {
   // вставьте код функции
-  retuen 1;
+  return 1;
 }
